@@ -1,0 +1,25 @@
+## Build artifacts
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## .NET build output
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+.vs/
+
+## VS Code / JetBrains
+.vscode/
+.idea/
+*.DotSettings.user
+
+## NuGet packages (restored via dotnet restore)
+packages/
+*.nupkg
+
+## OS artifacts
+.DS_Store
+Thumbs.db
